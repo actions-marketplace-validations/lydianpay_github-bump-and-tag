@@ -8,7 +8,7 @@ jobs:
   deploy:
     steps:
         - name: Bump And Tag
-          uses: Tether-Payments/github-bump-and-tag@v0.1.0
+          uses: lydianpay/github-bump-and-tag@v1
 ```
 
 ## Outputs
